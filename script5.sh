@@ -9,7 +9,7 @@
 echo "Enter cource name:"
 read cource_name
 
-if [ cource_name=Devops ]
+if [$cource_name=Devops ]
 
 then #after this conditions will execute.
 
